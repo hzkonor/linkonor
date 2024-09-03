@@ -1,0 +1,36 @@
+---
+import Button from "../components/Button.astro";
+import ButtonsList from "../components/ButtonsList.astro";
+---
+
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" href="/pic.png" />
+    <link href="/src/style/main.css" rel="stylesheet" />
+    <title>Conor</title>
+  </head>
+
+  <body>
+    <div class="text-slate-50 h-screen svg-background">
+      <div class="w-full h-full bg-zinc-900/70">
+        <div class="p-4 flex flex-col items-center space-y-2">
+          <img src="pic.jpg" alt="Mon avatar" class="rounded-full max-h-40" />
+          <p>
+            Salut c'est <span id="name">Conor</span>, voici mes différents liens
+          </p>
+          <!-- Gradient credit to https://ibelick.com/blog/create-animated-text-gradient-with-css -->
+          <ButtonsList />
+
+          <p>
+            Fait avec 💛 par Conor avec <a
+              href="https://astro.build" target="_blank"
+              class="underline text-amber-400">Astro.</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

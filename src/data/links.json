@@ -1,0 +1,40 @@
+[
+    {
+      "color": "#f5e50a",
+      "textColor": "black",
+      "link": "https://vrak.konor.fr/",
+      "label": "Digital Garden",
+      "icon": "mdi:lightning-bolt"
+    },
+    {
+      "color": "#000",
+      "link": "https://github.com/hzkonor",
+      "label": "Github",
+      "icon": "simple-icons:github"
+    },
+    {
+      "color": "#17063b",
+      "link": "https://biscuit.town/@hzk",
+      "label": "Mastodon",
+      "icon": "mdi:mastodon"
+    },
+    {
+      "color": "#5865f2",
+      "link": "https://discord.com/users/694550813967646831",
+      "label": "Discord",
+      "icon": "mdi:discord"
+    },
+    {
+      "color": "#04a033",
+      "link": "https://matrix.to/#/@hzkonor:matrix.org",
+      "label": "Matrix",
+      "icon": "ph:matrix-logo"
+    },
+    {
+      "color": "#c71585",
+      "link": "https://pronoms.fr/@hzkonor",
+      "label": "Pronoms",
+      "icon": "simple-icons:pronounsdotpage"
+    }
+  ]
+  
