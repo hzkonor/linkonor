@@ -1,14 +1,12 @@
-body {
-    background-color: #111827;
-  }
-  
-  .svg-background {
-    background-image: url("/background.svg");
+.svg-background {
+    background-image: url(/background.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
+    min-height: 100vh; /* Ensure it covers the viewport height */
   }
+  
   
   #name {
     background: radial-gradient(
