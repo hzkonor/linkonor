@@ -1,2 +1,8 @@
+# modules
 node_modules
--rf
+
+# Astro config
+.astro
+
+# Build
+dist/
