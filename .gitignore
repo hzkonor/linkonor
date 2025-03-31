@@ -1,0 +1,8 @@
+# modules
+node_modules
+
+# Astro config
+.astro
+
+# Build
+dist/
