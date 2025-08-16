@@ -1,10 +1,15 @@
 [
   {
-    "color": "#f5e50a",
-    "textColor": "black",
+    "color": "#094648",
     "link": "https://vrak.konor.fr/",
     "label": "Digital Garden",
     "icon": "mdi:lightning-bolt"
+  },
+  {
+    "color": "#1b073c",
+    "link": "https://gram.social/i/portfolio/conor",
+    "label": "Photos",
+    "icon": "mdi:camera-iris"
   },
   {
     "color": "#000",
@@ -14,22 +19,15 @@
   },
 
   {
-    "color": "#3A76F0",
+    "color": "#232eed",
     "link": "https://signal.me/#eu/5PeN9j7Y3schitSytgKFR00GthkF_EliItE43vJSRrqNLsOJeNhInqaok5kSidAb",
     "label": "Signal",
     "icon": "simple-icons:signal"
   },
   {
-    "color": "#5865f2",
+    "color": "#5662f6",
     "link": "https://discord.com/users/694550813967646831",
     "label": "Discord",
     "icon": "mdi:discord"
-  },
-  {
-    "color": "#e48dae",
-    "textColor": "black",
-    "link": "/cv.pdf",
-    "label": "CV",
-    "icon": "mdi:file-pdf"
   }
 ]
