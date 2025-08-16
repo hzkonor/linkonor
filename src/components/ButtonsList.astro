@@ -7,12 +7,7 @@ import Button from "./Button.astro";
   {
     buttonsData.map((button) => (
       <>
-        <Button
-          color={button.color}
-          textColor={button.textColor}
-          link={button.link}
-          icon={button.icon}
-        >
+        <Button color={button.color} link={button.link} icon={button.icon}>
           {button.label}
         </Button>
       </>
